@@ -1,2 +1,2 @@
 # VGA-Driver
-VGA driver in systemverilog
+VGA driver in systemverilog, using quartus prime
